@@ -1,0 +1,34 @@
+img {
+    height: auto;
+    width: 250px;
+    display: block;
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color:aquamarine;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    background-image: url(../odin-recipes/Images/backgroundthunder.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+p, ul{
+    font-weight: lighter;
+    background-color: whitesmoke;
+    color: slategray;
+    list-style: upper-roman;
+    
+}
